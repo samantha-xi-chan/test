@@ -1,3 +1,3 @@
 
-xx.sh
+echo "msg from clone.sh"
 
