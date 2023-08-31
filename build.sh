@@ -1,11 +1,9 @@
 
 echo " = = =  step build.sh  = = = "
 
-echo "input: "
-cat  /docker/download/out.txt
-echo ;
+ls -alh /docker/download/
 
-echo "output: "
+cat  /docker/download/out.txt >> /docker/built/out.txt
 echo "build finished " >> /docker/built/out.txt
 
 echo ; echo ; echo ;
