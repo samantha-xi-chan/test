@@ -1,8 +1,8 @@
 
 echo " = = =  step build.sh  = = = "
-echo "$1: "$1
-echo "$2: "$2
-echo "$3: "$3
+echo '$1: '$1
+echo '$2: '$2
+echo '$3: '$3
 
 sleep 6
 ls -alh /docker/download/
