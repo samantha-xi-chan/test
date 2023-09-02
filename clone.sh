@@ -6,3 +6,4 @@ echo '$3: '$3
 
 echo "msg from clone.sh" >> /docker/download/out.txt
 
+exit 88
