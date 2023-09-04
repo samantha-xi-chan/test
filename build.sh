@@ -1,5 +1,5 @@
 
-echo " = = =  step build.sh  = = = "
+echo " = = =  step build.sh  = = = 20230904 # 18:27 = = = "
 echo '$1: '$1
 echo '$2: '$2
 echo '$3: '$3
