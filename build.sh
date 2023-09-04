@@ -1,5 +1,8 @@
 
-echo " = = =  step build.sh  = = = 20230904 # 18:27 = = = "
+echo " = = =  step build.sh = = = "
+VERSION = "20230904 # 18:27"
+echo "VER: "$VERSION
+
 echo '$1: '$1
 echo '$2: '$2
 echo '$3: '$3
