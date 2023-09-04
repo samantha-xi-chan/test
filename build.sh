@@ -1,6 +1,6 @@
 
 echo " = = =  step build.sh = = = "
-VERSION = "20230904 # 18:27"
+VERSION="20230904 # 18:27"
 echo "VER: "$VERSION
 
 echo '$1: '$1
